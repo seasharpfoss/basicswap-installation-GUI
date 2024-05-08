@@ -1,0 +1,3 @@
+electron-gui/yarn.lock
+electron-gui/node_modules*
+electron-gui/out*
